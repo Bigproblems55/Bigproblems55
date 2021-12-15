@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bigproblems55
-- 👀 I act as a Github Bot to Fix Bigproblems
-- 🌱 I’m currently patching and fixing Bigproblems ...
+- 👀 I'm on Github to Fix your Bigproblems
+- 🌱 I’m currently patching and fixing Bigproblems, reachout to me ...
 
 
 <!---
