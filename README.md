@@ -63,12 +63,12 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 <hr>
 <p align="left">
 
-- :skull_and_crossbones: I'm currently working on react2024 video at my newest organization<a href="https://github.com/Knewmule/react2024">knewmule </a>
-- :anger: I'm currently learning <a href="https://www.mongodb.com/mern-stack">MERN Stack Development</a>
-- :paperclip: I'm looking to collaborate on any projects that can make me money :money_with_wings: or help the community. 
+- :skull_and_crossbones: I'm currently working on react2024 video at my newest organization <a href="https://github.com/Knewmule/react2024">knewmule </a>
+- :paperclip: I'm looking to collaborate on any projects that will pay :money_with_wings: or help the community. 
 - :sweat_drops: I'm looking for help with <a href="https://regexr.com/">Regex Pattern manipulation</a>
-- :v: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games </a>
-- :envelope: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+- :v: Ask me about  <a href="https://trello.com/invite/rouletteprogramming/a02a0c8c9ac1ef64f0965fa269c3e9df" title="See my trello boards for a invite to work on live projects">any trello board development projects to build web apps, tools, or games for pay or experience</a>
+- :envelope: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)
+<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 - :point_right:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
 -  :mountain: Fun fact ... I have worked with most organizations under the name extrude575757. This account name change is a continuation for the first account on github still frozen. 
@@ -227,7 +227,8 @@ This is where I have gained experience with PHP  and learned what regex is to cr
   * Gimp, Inkscape, Blender, & photo-shop imaging, texturing 
   * Design pattern principles
 ### :envelope: Get In Touch
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria//)<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)
+<a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 
 <hr>
