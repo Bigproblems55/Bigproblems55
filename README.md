@@ -222,8 +222,11 @@ This is where I have gained experience with PHP  and learned what regex is to cr
   * UML flow-chart creation and WYSIWYG editors.
   * Popular UX/UI Designing, Accessability, & Cross Compatibility.
   * Testing, Logging, Commenting, & Stack Debugging.
-  * Front/Back-end coding, SASS/LESS/CSS styling and powerful Libraries.
+  * Front-end coding, with Flexbox/LESS/CSS3 styling & Reactjs.
+  * Back-end coding with sqlite or postgre sql.
+  * Back-end env sessions with Knex state management.
   * Git, gist, & mercurial reversions.
+  * Python standard library & algorithims.
   * Gimp, Inkscape, Blender, & photo-shop imaging, texturing 
   * Design pattern principles
 ### :envelope: Get In Touch
@@ -235,7 +238,7 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 
 <br>
 
-<img align="center" src="pictures/nl.jpg">
+<img align="center" width="400px" hieght="400px" src="pictures/nl.jpg">
 
 <hr>
 
