@@ -70,11 +70,11 @@ This is where I have gained experience with PHP  and learned what regex is to cr
 - :envelope: How to reach me [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/web-dev-nicholas-lacapria/)
 <a href="mailto:nicholas.a.lacapria@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
-- :point_right:  Pronouns <b>Fullstack Web Developer, Programmer, and Software Engineer</b>
+- :point_right:  Pronouns <b>Fullstack Developer/Programmer, he/him</b>
 -  :mountain: Fun fact ... I have worked with most organizations under the name extrude575757. This account name change is a continuation for the first account on github still frozen. 
 </p>
 <h4>Newest Organization & projects as Bigproblems55 </h4>
-- <b>Knewmule Organization</b>(https://github.com/Knewmule) :mouse:
+- <b>Knewmule Organization</b> (https://github.com/Knewmule) :mouse:
 
 - <b>React 2024 Udemy Video</b>(https://github.com/Knewmule/react2024) :chipmunk:
 
